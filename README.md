@@ -24,7 +24,7 @@ Add a new array field
 
 **Code** | **Title** | **Description**
 --|--|--
-surveillanceMechanisms | Surveillance mechanisms | The surveillance mechanisms used in this contracting process. The mechanisms should be taken from the surveillanceMechanisms codelist (url).
+surveillanceMechanisms | Surveillance mechanisms | The surveillance mechanisms used in this contracting process. The mechanisms should be taken from the [surveillanceMechanisms](https://github.com/INAImexico/ocds_surveillanceMechanisms_extension/blob/master/codelists/surveillanceMechanisms.csv) codelist.
 socialWitness | Social witness | Specialized citizens who participate in the surveillance of this contracting process.
 citizenComptroller | Citizen comptroller | Surveillance mechanism by beneficiaries to verify the works progress and the correct expending of public resources.
 internalControlUnit | Internal control unit | Body in charge of preventing, detecting, sanctioning and eradicating corrupt practices that may arise in this contracting process.
