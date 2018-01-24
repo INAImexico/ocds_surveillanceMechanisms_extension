@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Surveillance mechanisms"
+  },
+  "description": {
+    "en": "In Mexico there are different surveillance mechanisms that testify the transparency and legality through all the contracting process. See discussion in https://github.com/open-contracting/standard/issues/652"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/INAImexico/ocds_surveillanceMechanisms_extension"
+  },
+  "codelists": [
+    "surveillanceMechanisms.csv",
+  ]
+}
