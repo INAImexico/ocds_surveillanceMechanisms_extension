@@ -17,7 +17,7 @@ Add a new array field
 ### Schema:
 
   - Contract {object}
-    - surveillanceMechanisms [array]
+    - surveillanceMechanisms (string, null) [array]
 
 ## Defining texts:
 
