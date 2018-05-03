@@ -5,9 +5,14 @@
         "surveillanceMechanisms": {
           "title": "Surveillance mechanisms",
           "description": "The surveillance mechanisms used in this contracting process. The mechanisms should be taken from the [surveillanceMechanisms](https://github.com/INAImexico/ocds_surveillanceMechanisms_extension/blob/master/codelists/surveillanceMechanisms.csv) codelist.",
-          "type": "array",
+          "type": [
+            "array"
+          ],
           "items": {
-            "type": "string"
+            "type": [
+              "string",
+              "null"
+            ]
           },
           "codelist": "surveillanceMechanisms.csv"
         }
