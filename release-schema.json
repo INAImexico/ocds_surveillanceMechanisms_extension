@@ -14,7 +14,8 @@
               "null"
             ]
           },
-          "codelist": "surveillanceMechanisms.csv"
+          "codelist": "surveillanceMechanisms.csv",
+          "openCodelist": true
         }
       }
     }
