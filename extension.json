@@ -12,6 +12,6 @@
     "en": "https://github.com/INAImexico/ocds_surveillanceMechanisms_extension"
   },
   "codelists": [
-    "surveillanceMechanisms.csv",
+    "surveillanceMechanisms.csv"
   ]
 }
