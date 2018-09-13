@@ -13,5 +13,8 @@
   },
   "codelists": [
     "surveillanceMechanisms.csv"
+  ],
+  "schemas": [
+    "release-schema.json"
   ]
 }
