@@ -1,5 +1,5 @@
-Category,Code,Title_en,Description_en,Source
-,socialWitness,Social witness,Specialized citizens who participate in the surveillance of this contracting process.,
-,citizenComptroller,Citizen comptroller,Surveillance mechanism by beneficiaries to verify the works progress and the correct expending of public resources.,
-,internalControlUnit,Internal control unit,"Body in charge of preventing, detecting, sanctioning and eradicating corrupt practices that may arise in this contracting process.",
-,externalAuditor,External auditor,Institution outside the public administration that performs an audit of this contracting process.,
+Code,Title,Description
+socialWitness,Social witness,Specialized citizens who participate in the surveillance of this contracting process.
+citizenComptroller,Citizen comptroller,Surveillance mechanism by beneficiaries to verify the works progress and the correct expending of public resources.
+internalControlUnit,Internal control unit,"Body in charge of preventing, detecting, sanctioning and eradicating corrupt practices that may arise in this contracting process."
+externalAuditor,External auditor,Institution outside the public administration that performs an audit of this contracting process.
